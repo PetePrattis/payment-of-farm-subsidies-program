@@ -20,7 +20,7 @@
 >>More than 100 | 50€
 >>
 >
-> 3.Write in a file, which has the name RESULTS.txt the region code, the name of the product, the cultivated acres and the total compensation that must be given.
+> 3. Write in a file, which has the name RESULTS.txt the region code, the name of the product, the cultivated acres and the total compensation that must be given.
 >
 >The procedure is repeated until the value 0 is given as the region code. After the end of the data entry, the program calculates and displays:
 >
